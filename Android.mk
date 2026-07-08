@@ -21,8 +21,7 @@ LOCAL_C_INCLUDES := \
     $(LOCAL_PATH)/source/Foundation \
     $(LOCAL_PATH)/external \
     $(LOCAL_PATH)/external/imgui \
-    $(LOCAL_PATH)/external/KittyMemoryEx \
-    $(LOCAL_PATH)/../DFM/include/ImGui/font
+    $(LOCAL_PATH)/external/KittyMemoryEx
 
 LOCAL_CPPFLAGS := \
     -std=c++20 \
